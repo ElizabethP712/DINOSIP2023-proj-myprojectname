@@ -1,4 +1,4 @@
-# Getting Started - Installation & General Commands of MambaForge and Terminal
+e# Getting Started - Installation & General Commands of MambaForge and Terminal
 
 ## Step 1: Set up your Terminal
 I used a Windows computer for this project, and following these ![instructions](https://learn.microsoft.com/en-us/windows/terminal/install) to set up my own terminal. Then you can input commands directly into your computer to actually install MambaForge, update environments with new packages, and navigate through your directory to find the path of files to insert into JupyterLab, not to mention launch a locally hosted JupyterLab.
@@ -16,4 +16,10 @@ This includes basic commands (all mine are for Windows, consult google or ChatGP
 2. How to check your directories (folders) - "dir"
 3. How to move to another directory (change directories) - "cd FOLDER_NAME"
 4. How to go back to the previous directory - "cd .."
-5. How to 
+5. How to create a new python package environment - "
+6. How to see what packages are in your environment - 
+7. How to activate said environment -
+8. How to deactivate said environment - 
+9. How to activate JupyterLab within that environment -
+
+## Step 3: Create an environment with the correct packages needed (I have provided the environment you will need in the files titled "..."):
