@@ -12,8 +12,8 @@ To install mambaforge, I used the following ![instructions](https://biapol.githu
 
 This includes basic commands (all mine are for Windows, consult google or ChatGPT if you have a different operator):
 
-How to open your command line - "cmd"
-How to check your directories (folders) - "dir"
-How to move to another directory (change directories) - "cd FOLDER_NAME"
-How to go back to the previous directory - "cd .."
-How to 
+1. How to open your command line - "cmd"
+2. How to check your directories (folders) - "dir"
+3. How to move to another directory (change directories) - "cd FOLDER_NAME"
+4. How to go back to the previous directory - "cd .."
+5. How to 
